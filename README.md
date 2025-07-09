@@ -1,4 +1,4 @@
-SINO
+Hi. This is SINO
 
 <!---
 Sinoroku/Sinoroku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
